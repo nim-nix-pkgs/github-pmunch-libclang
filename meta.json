@@ -3,11 +3,30 @@
   "license": "MIT",
   "method": "git",
   "name": "github-pmunch-libclang",
-  "tags": [],
+  "tags": [
+    {
+      "description": "Wrapper for libclang C headers",
+      "license": "MIT",
+      "name": "github-pmunch-libclang",
+      "ref": "refs/tags/v0.59",
+      "url": "https://github.com/pmunch/libclang-nim",
+      "version": "v0_59"
+    }
+  ],
   "url": "https://github.com/pmunch/libclang-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/pmunch/libclang-nim/': Could not resolve host: github.com",
+    "refs/heads/develop",
+    "refs/tags/v0.59",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "description": "Wrapper for libclang C headers",
+      "license": "MIT",
+      "name": "github-pmunch-libclang",
+      "ref": "refs/heads/develop",
+      "url": "https://github.com/pmunch/libclang-nim",
+      "version": "develop"
+    }
+  ]
 }
