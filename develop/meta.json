@@ -1,8 +1,0 @@
-{
-  "description": "Wrapper for libclang C headers",
-  "license": "MIT",
-  "name": "github-pmunch-libclang",
-  "ref": "refs/heads/develop",
-  "url": "https://github.com/pmunch/libclang-nim",
-  "version": "develop"
-}
